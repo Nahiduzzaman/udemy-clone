@@ -1,0 +1,74 @@
+body {
+    font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 1.43;
+    color: #333;
+    background-color: #fff;
+}
+
+img {
+    vertical-align: middle;
+    border: 0;
+}
+
+.toolbar-bg-color {
+    background: #fff !important;
+}
+
+.mycourses-bg{
+    background: #17aa1c;
+    color: #fff;
+    height: 179px;
+}
+
+.md-toolbar-tools {
+    height: 50px;
+    max-height: 50px;
+    padding: 0;
+}
+
+.udemy-logo {
+    width: 80px;
+    height: 100%;
+}
+
+.logo-wrap {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.border-top-4 {
+    border-top: 4px solid #17aa1c;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    min-width: 320px;
+    display: table;
+}
+
+.container h1{
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 1.287;
+    margin: 0;
+}
+
+.overlap{
+    position:relative;
+    bottom:49px;
+}
+
+.tab-width{
+    width: 1010px;
+}
